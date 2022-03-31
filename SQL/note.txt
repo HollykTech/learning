@@ -1,0 +1,26 @@
+This file is used to store SQL study notes
+------------------------------------------
+Extension file used by SQL language:
+-----------------------------------
+.sql
+
+Command Types:
+-------------
+DDL -> Data Definition Language
+DML -> Data Manipulation Language
+
+Data Types:
+----------
+Num
+  |-> int   -> TinyInt, SmallInt, Int, MediumInt, BigInt
+  |-> real  -> Decimal, Float, Double, Real
+  '-> logic -> Bit, Boolean
+
+Date/Time
+  '-> Date, DateTime, TimeStamp, Time Year
+
+Literal
+  |-> character  -> Char, Varchar
+  |-> text       -> TinyText, Text, MediumText, LongText
+  |-> binary     -> TinyBlob, Blob, MediumBlob, LongBlob
+  '-> collection -> enum, set
